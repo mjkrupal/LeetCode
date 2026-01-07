@@ -13,10 +13,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mjkrupal/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3794-reverse-string-prefix](https://github.com/mjkrupal/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mjkrupal/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3794-reverse-string-prefix](https://github.com/mjkrupal/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## String Matching
 |  |
 | ------- |
