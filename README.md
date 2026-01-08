@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mjkrupal/LeetCode/tree/master/0001-two-sum) |
+| [0334-increasing-triplet-subsequence](https://github.com/mjkrupal/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/mjkrupal/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Hash Table
 |  |
@@ -43,4 +44,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mjkrupal/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/mjkrupal/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
