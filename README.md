@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mjkrupal/LeetCode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/mjkrupal/LeetCode/tree/master/0007-reverse-integer) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/mjkrupal/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Recursion
 |  |
