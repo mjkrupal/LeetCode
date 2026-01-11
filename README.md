@@ -11,6 +11,7 @@
 | [0152-maximum-product-subarray](https://github.com/mjkrupal/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0334-increasing-triplet-subsequence](https://github.com/mjkrupal/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0611-valid-triangle-number](https://github.com/mjkrupal/LeetCode/tree/master/0611-valid-triangle-number) |
+| [1572-matrix-diagonal-sum](https://github.com/mjkrupal/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mjkrupal/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/mjkrupal/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Hash Table
@@ -85,4 +86,8 @@
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/mjkrupal/LeetCode/tree/master/0152-maximum-product-subarray) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/mjkrupal/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
