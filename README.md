@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/mjkrupal/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/mjkrupal/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/mjkrupal/LeetCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/mjkrupal/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/mjkrupal/LeetCode/tree/master/0041-first-missing-positive) |
 | [0152-maximum-product-subarray](https://github.com/mjkrupal/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0334-increasing-triplet-subsequence](https://github.com/mjkrupal/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
@@ -41,6 +42,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/mjkrupal/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/mjkrupal/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mjkrupal/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/mjkrupal/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mjkrupal/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/mjkrupal/LeetCode/tree/master/0125-valid-palindrome) |
 | [2109-adding-spaces-to-a-string](https://github.com/mjkrupal/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
@@ -109,4 +111,8 @@
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/mjkrupal/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/mjkrupal/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
