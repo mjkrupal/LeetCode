@@ -3,13 +3,11 @@ class Solution {
         int row = matrix.length;
         int col = matrix[0].length;
         int low =0;
-        int high = row*col-1;
-        while(low<=high){
-            int mid = (low+high)/2;
-            int val = matrix[mid/col][mid%col];
-            if(val==target) return true;
-            else if(val>target) high = mid-1;
-            else low = mid+1;
+        int high = col-1;
+        while(low < row && high >=0){
+            if(matrix[low][high]==target) return true;
+            else if(matrix[low][high] > target) high--;
+            else low++;
         }
         return false;
     }
