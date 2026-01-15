@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/mjkrupal/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/mjkrupal/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mjkrupal/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/mjkrupal/LeetCode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/mjkrupal/LeetCode/tree/master/0041-first-missing-positive) |
 | [0074-search-a-2d-matrix](https://github.com/mjkrupal/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0152-maximum-product-subarray](https://github.com/mjkrupal/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -33,6 +34,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/mjkrupal/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mjkrupal/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/mjkrupal/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mjkrupal/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/mjkrupal/LeetCode/tree/master/0125-valid-palindrome) |
 | [0611-valid-triangle-number](https://github.com/mjkrupal/LeetCode/tree/master/0611-valid-triangle-number) |
