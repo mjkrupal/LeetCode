@@ -14,6 +14,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mjkrupal/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mjkrupal/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/mjkrupal/LeetCode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/mjkrupal/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/mjkrupal/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0152-maximum-product-subarray](https://github.com/mjkrupal/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0334-increasing-triplet-subsequence](https://github.com/mjkrupal/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
@@ -40,6 +41,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mjkrupal/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mjkrupal/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mjkrupal/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/mjkrupal/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/mjkrupal/LeetCode/tree/master/0125-valid-palindrome) |
 | [0611-valid-triangle-number](https://github.com/mjkrupal/LeetCode/tree/master/0611-valid-triangle-number) |
 | [2109-adding-spaces-to-a-string](https://github.com/mjkrupal/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
@@ -117,6 +119,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/mjkrupal/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/mjkrupal/LeetCode/tree/master/0152-maximum-product-subarray) |
 ## Matrix
 |  |
@@ -136,4 +139,9 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mjkrupal/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/mjkrupal/LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/mjkrupal/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
