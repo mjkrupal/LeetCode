@@ -58,6 +58,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mjkrupal/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/mjkrupal/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/mjkrupal/LeetCode/tree/master/0125-valid-palindrome) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/mjkrupal/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mjkrupal/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2109-adding-spaces-to-a-string](https://github.com/mjkrupal/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [3794-reverse-string-prefix](https://github.com/mjkrupal/LeetCode/tree/master/3794-reverse-string-prefix) |
@@ -95,6 +96,7 @@
 | [0011-container-with-most-water](https://github.com/mjkrupal/LeetCode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/mjkrupal/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0611-valid-triangle-number](https://github.com/mjkrupal/LeetCode/tree/master/0611-valid-triangle-number) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/mjkrupal/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -146,4 +148,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mjkrupal/LeetCode/tree/master/0042-trapping-rain-water) |
+## Counting
+|  |
+| ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/mjkrupal/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
