@@ -77,12 +77,14 @@
 | [0009-palindrome-number](https://github.com/mjkrupal/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/mjkrupal/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mjkrupal/LeetCode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/mjkrupal/LeetCode/tree/master/0050-powx-n) |
 | [1266-minimum-time-visiting-all-points](https://github.com/mjkrupal/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/mjkrupal/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mjkrupal/LeetCode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/mjkrupal/LeetCode/tree/master/0050-powx-n) |
 ## Sliding Window
 |  |
 | ------- |
