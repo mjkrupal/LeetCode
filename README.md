@@ -23,6 +23,7 @@
 | [0611-valid-triangle-number](https://github.com/mjkrupal/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0867-transpose-matrix](https://github.com/mjkrupal/LeetCode/tree/master/0867-transpose-matrix) |
 | [1266-minimum-time-visiting-all-points](https://github.com/mjkrupal/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/mjkrupal/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1572-matrix-diagonal-sum](https://github.com/mjkrupal/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [2109-adding-spaces-to-a-string](https://github.com/mjkrupal/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mjkrupal/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -47,6 +48,7 @@
 | [0125-valid-palindrome](https://github.com/mjkrupal/LeetCode/tree/master/0125-valid-palindrome) |
 | [0541-reverse-string-ii](https://github.com/mjkrupal/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0611-valid-triangle-number](https://github.com/mjkrupal/LeetCode/tree/master/0611-valid-triangle-number) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/mjkrupal/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2109-adding-spaces-to-a-string](https://github.com/mjkrupal/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mjkrupal/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3794-reverse-string-prefix](https://github.com/mjkrupal/LeetCode/tree/master/3794-reverse-string-prefix) |
@@ -111,6 +113,7 @@
 | [0035-search-insert-position](https://github.com/mjkrupal/LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/mjkrupal/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0611-valid-triangle-number](https://github.com/mjkrupal/LeetCode/tree/master/0611-valid-triangle-number) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/mjkrupal/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -120,6 +123,7 @@
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/mjkrupal/LeetCode/tree/master/0611-valid-triangle-number) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/mjkrupal/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Simulation
 |  |
 | ------- |
@@ -159,4 +163,8 @@
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/mjkrupal/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
+## Prefix Sum
+|  |
+| ------- |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/mjkrupal/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 <!---LeetCode Topics End-->
