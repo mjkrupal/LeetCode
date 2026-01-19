@@ -86,6 +86,7 @@
 | [0013-roman-to-integer](https://github.com/mjkrupal/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/mjkrupal/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/mjkrupal/LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/mjkrupal/LeetCode/tree/master/0069-sqrtx) |
 | [1266-minimum-time-visiting-all-points](https://github.com/mjkrupal/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/mjkrupal/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Recursion
@@ -111,6 +112,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/mjkrupal/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mjkrupal/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mjkrupal/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/mjkrupal/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/mjkrupal/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0611-valid-triangle-number](https://github.com/mjkrupal/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/mjkrupal/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
