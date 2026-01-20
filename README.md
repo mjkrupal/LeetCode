@@ -29,6 +29,7 @@
 | [2109-adding-spaces-to-a-string](https://github.com/mjkrupal/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mjkrupal/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/mjkrupal/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/mjkrupal/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -184,4 +185,5 @@
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mjkrupal/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/mjkrupal/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 <!---LeetCode Topics End-->
