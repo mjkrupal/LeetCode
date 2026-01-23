@@ -32,6 +32,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/mjkrupal/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/mjkrupal/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0867-transpose-matrix](https://github.com/mjkrupal/LeetCode/tree/master/0867-transpose-matrix) |
+| [0881-boats-to-save-people](https://github.com/mjkrupal/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/mjkrupal/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/mjkrupal/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/mjkrupal/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -70,6 +71,7 @@
 | [0541-reverse-string-ii](https://github.com/mjkrupal/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/mjkrupal/LeetCode/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/mjkrupal/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0881-boats-to-save-people](https://github.com/mjkrupal/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0925-long-pressed-name](https://github.com/mjkrupal/LeetCode/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/mjkrupal/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/mjkrupal/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -137,6 +139,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mjkrupal/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/mjkrupal/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0611-valid-triangle-number](https://github.com/mjkrupal/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0881-boats-to-save-people](https://github.com/mjkrupal/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/mjkrupal/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Binary Search
 |  |
@@ -165,6 +168,7 @@
 | [0088-merge-sorted-array](https://github.com/mjkrupal/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mjkrupal/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/mjkrupal/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0881-boats-to-save-people](https://github.com/mjkrupal/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/mjkrupal/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/mjkrupal/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2248-intersection-of-multiple-arrays](https://github.com/mjkrupal/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
