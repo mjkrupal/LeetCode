@@ -38,6 +38,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/mjkrupal/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/mjkrupal/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/mjkrupal/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/mjkrupal/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1470-shuffle-the-array](https://github.com/mjkrupal/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/mjkrupal/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/mjkrupal/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -134,6 +135,7 @@
 | [0069-sqrtx](https://github.com/mjkrupal/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mjkrupal/LeetCode/tree/master/0070-climbing-stairs) |
 | [1266-minimum-time-visiting-all-points](https://github.com/mjkrupal/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/mjkrupal/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mjkrupal/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/mjkrupal/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/mjkrupal/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
