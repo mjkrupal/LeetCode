@@ -54,6 +54,7 @@
 | [2348-number-of-zero-filled-subarrays](https://github.com/mjkrupal/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/mjkrupal/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/mjkrupal/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3467-transform-array-by-parity](https://github.com/mjkrupal/LeetCode/tree/master/3467-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -197,6 +198,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/mjkrupal/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mjkrupal/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/mjkrupal/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
+| [3467-transform-array-by-parity](https://github.com/mjkrupal/LeetCode/tree/master/3467-transform-array-by-parity) |
 ## Simulation
 |  |
 | ------- |
@@ -243,6 +245,7 @@
 | [1512-number-of-good-pairs](https://github.com/mjkrupal/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/mjkrupal/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2248-intersection-of-multiple-arrays](https://github.com/mjkrupal/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
+| [3467-transform-array-by-parity](https://github.com/mjkrupal/LeetCode/tree/master/3467-transform-array-by-parity) |
 ## Prefix Sum
 |  |
 | ------- |
