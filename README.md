@@ -47,6 +47,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/mjkrupal/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mjkrupal/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/mjkrupal/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/mjkrupal/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2109-adding-spaces-to-a-string](https://github.com/mjkrupal/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mjkrupal/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2248-intersection-of-multiple-arrays](https://github.com/mjkrupal/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
@@ -66,6 +67,7 @@
 | [1512-number-of-good-pairs](https://github.com/mjkrupal/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mjkrupal/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mjkrupal/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/mjkrupal/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2248-intersection-of-multiple-arrays](https://github.com/mjkrupal/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 ## Two Pointers
 |  |
@@ -238,6 +240,7 @@
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/mjkrupal/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1512-number-of-good-pairs](https://github.com/mjkrupal/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/mjkrupal/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2248-intersection-of-multiple-arrays](https://github.com/mjkrupal/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 ## Prefix Sum
 |  |
