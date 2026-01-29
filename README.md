@@ -38,6 +38,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/mjkrupal/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/mjkrupal/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1200-minimum-absolute-difference](https://github.com/mjkrupal/LeetCode/tree/master/1200-minimum-absolute-difference) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/mjkrupal/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1266-minimum-time-visiting-all-points](https://github.com/mjkrupal/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/mjkrupal/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1470-shuffle-the-array](https://github.com/mjkrupal/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -140,6 +141,7 @@
 | [0069-sqrtx](https://github.com/mjkrupal/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mjkrupal/LeetCode/tree/master/0070-climbing-stairs) |
 | [0989-add-to-array-form-of-integer](https://github.com/mjkrupal/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/mjkrupal/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1266-minimum-time-visiting-all-points](https://github.com/mjkrupal/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/mjkrupal/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mjkrupal/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -164,6 +166,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/mjkrupal/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0611-valid-triangle-number](https://github.com/mjkrupal/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/mjkrupal/LeetCode/tree/master/0881-boats-to-save-people) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/mjkrupal/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/mjkrupal/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mjkrupal/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Binary Search
