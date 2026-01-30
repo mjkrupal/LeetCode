@@ -49,6 +49,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/mjkrupal/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1854-maximum-population-year](https://github.com/mjkrupal/LeetCode/tree/master/1854-maximum-population-year) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mjkrupal/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/mjkrupal/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/mjkrupal/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/mjkrupal/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2109-adding-spaces-to-a-string](https://github.com/mjkrupal/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
@@ -227,6 +228,7 @@
 | [0074-search-a-2d-matrix](https://github.com/mjkrupal/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/mjkrupal/LeetCode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/mjkrupal/LeetCode/tree/master/1572-matrix-diagonal-sum) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/mjkrupal/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Geometry
 |  |
 | ------- |
