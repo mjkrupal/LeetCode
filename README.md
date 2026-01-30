@@ -47,6 +47,7 @@
 | [1512-number-of-good-pairs](https://github.com/mjkrupal/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/mjkrupal/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mjkrupal/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1854-maximum-population-year](https://github.com/mjkrupal/LeetCode/tree/master/1854-maximum-population-year) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mjkrupal/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/mjkrupal/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/mjkrupal/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -248,6 +249,7 @@
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/mjkrupal/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1512-number-of-good-pairs](https://github.com/mjkrupal/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1854-maximum-population-year](https://github.com/mjkrupal/LeetCode/tree/master/1854-maximum-population-year) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/mjkrupal/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2248-intersection-of-multiple-arrays](https://github.com/mjkrupal/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [3467-transform-array-by-parity](https://github.com/mjkrupal/LeetCode/tree/master/3467-transform-array-by-parity) |
@@ -257,6 +259,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/mjkrupal/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/mjkrupal/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/mjkrupal/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1854-maximum-population-year](https://github.com/mjkrupal/LeetCode/tree/master/1854-maximum-population-year) |
 ## Memoization
 |  |
 | ------- |
