@@ -29,6 +29,7 @@
 | [0162-find-peak-element](https://github.com/mjkrupal/LeetCode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/mjkrupal/LeetCode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mjkrupal/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/mjkrupal/LeetCode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/mjkrupal/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/mjkrupal/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/mjkrupal/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
@@ -69,6 +70,7 @@
 | [0012-integer-to-roman](https://github.com/mjkrupal/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mjkrupal/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/mjkrupal/LeetCode/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/mjkrupal/LeetCode/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mjkrupal/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/mjkrupal/LeetCode/tree/master/0567-permutation-in-string) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mjkrupal/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -196,12 +198,14 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mjkrupal/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/mjkrupal/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/mjkrupal/LeetCode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mjkrupal/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/mjkrupal/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/mjkrupal/LeetCode/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/mjkrupal/LeetCode/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mjkrupal/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/mjkrupal/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/mjkrupal/LeetCode/tree/master/0881-boats-to-save-people) |
@@ -255,6 +259,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mjkrupal/LeetCode/tree/master/0169-majority-element) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/mjkrupal/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1512-number-of-good-pairs](https://github.com/mjkrupal/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1854-maximum-population-year](https://github.com/mjkrupal/LeetCode/tree/master/1854-maximum-population-year) |
