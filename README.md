@@ -299,4 +299,8 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/mjkrupal/LeetCode/tree/master/0164-maximum-gap) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/mjkrupal/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
