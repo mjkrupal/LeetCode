@@ -158,6 +158,7 @@
 | [0069-sqrtx](https://github.com/mjkrupal/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mjkrupal/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/mjkrupal/LeetCode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/mjkrupal/LeetCode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/mjkrupal/LeetCode/tree/master/0292-nim-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/mjkrupal/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/mjkrupal/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -171,6 +172,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/mjkrupal/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/mjkrupal/LeetCode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/mjkrupal/LeetCode/tree/master/0231-power-of-two) |
 ## Sliding Window
 |  |
 | ------- |
@@ -298,6 +300,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/mjkrupal/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/mjkrupal/LeetCode/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mjkrupal/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/mjkrupal/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Brainteaser
