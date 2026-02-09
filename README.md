@@ -80,6 +80,7 @@
 | [0217-contains-duplicate](https://github.com/mjkrupal/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mjkrupal/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/mjkrupal/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/mjkrupal/LeetCode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mjkrupal/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/mjkrupal/LeetCode/tree/master/0567-permutation-in-string) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mjkrupal/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -129,6 +130,7 @@
 | [0058-length-of-last-word](https://github.com/mjkrupal/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/mjkrupal/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/mjkrupal/LeetCode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/mjkrupal/LeetCode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mjkrupal/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/mjkrupal/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/mjkrupal/LeetCode/tree/master/0567-permutation-in-string) |
@@ -226,6 +228,7 @@
 | [0179-largest-number](https://github.com/mjkrupal/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/mjkrupal/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/mjkrupal/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/mjkrupal/LeetCode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mjkrupal/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/mjkrupal/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/mjkrupal/LeetCode/tree/master/0881-boats-to-save-people) |
