@@ -163,6 +163,7 @@
 | [0070-climbing-stairs](https://github.com/mjkrupal/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/mjkrupal/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/mjkrupal/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/mjkrupal/LeetCode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/mjkrupal/LeetCode/tree/master/0292-nim-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/mjkrupal/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/mjkrupal/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -242,6 +243,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/mjkrupal/LeetCode/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/mjkrupal/LeetCode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/mjkrupal/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/mjkrupal/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
@@ -336,4 +338,8 @@
 | [0184-department-highest-salary](https://github.com/mjkrupal/LeetCode/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/mjkrupal/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/mjkrupal/LeetCode/tree/master/0197-rising-temperature) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/mjkrupal/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
