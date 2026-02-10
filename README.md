@@ -164,6 +164,7 @@
 | [0189-rotate-array](https://github.com/mjkrupal/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/mjkrupal/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/mjkrupal/LeetCode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/mjkrupal/LeetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/mjkrupal/LeetCode/tree/master/0292-nim-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/mjkrupal/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/mjkrupal/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
