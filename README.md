@@ -170,6 +170,7 @@
 | [0268-missing-number](https://github.com/mjkrupal/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/mjkrupal/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/mjkrupal/LeetCode/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/mjkrupal/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0989-add-to-array-form-of-integer](https://github.com/mjkrupal/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/mjkrupal/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1266-minimum-time-visiting-all-points](https://github.com/mjkrupal/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -218,6 +219,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/mjkrupal/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/mjkrupal/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mjkrupal/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/mjkrupal/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0611-valid-triangle-number](https://github.com/mjkrupal/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/mjkrupal/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Divide and Conquer
