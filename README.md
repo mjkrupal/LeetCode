@@ -144,6 +144,7 @@
 | [0392-is-subsequence](https://github.com/mjkrupal/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/mjkrupal/LeetCode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/mjkrupal/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0504-base-7](https://github.com/mjkrupal/LeetCode/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/mjkrupal/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/mjkrupal/LeetCode/tree/master/0567-permutation-in-string) |
 | [0925-long-pressed-name](https://github.com/mjkrupal/LeetCode/tree/master/0925-long-pressed-name) |
@@ -182,6 +183,7 @@
 | [0326-power-of-three](https://github.com/mjkrupal/LeetCode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/mjkrupal/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/mjkrupal/LeetCode/tree/master/0412-fizz-buzz) |
+| [0504-base-7](https://github.com/mjkrupal/LeetCode/tree/master/0504-base-7) |
 | [0989-add-to-array-form-of-integer](https://github.com/mjkrupal/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/mjkrupal/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1266-minimum-time-visiting-all-points](https://github.com/mjkrupal/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
