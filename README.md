@@ -41,6 +41,7 @@
 | [0283-move-zeroes](https://github.com/mjkrupal/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/mjkrupal/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mjkrupal/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0485-max-consecutive-ones](https://github.com/mjkrupal/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0611-valid-triangle-number](https://github.com/mjkrupal/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0867-transpose-matrix](https://github.com/mjkrupal/LeetCode/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/mjkrupal/LeetCode/tree/master/0881-boats-to-save-people) |
